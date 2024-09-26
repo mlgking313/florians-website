@@ -1,1 +1,1 @@
-I am bored
+this was made for a school project ig
