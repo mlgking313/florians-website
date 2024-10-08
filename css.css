@@ -12,7 +12,7 @@
       .dotaheroes {
         heigth:16%;
         width:16%;
-        display:block;
+        padding:5px;
         float:left;
         position:relative;top:0%;     
       }
