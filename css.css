@@ -9,13 +9,35 @@
         text-decoration:underline;
         color:rgb(255, 255, 255);
       }
-      .dotaheroes {
-        heigth:16%;
-        width:16%;
-        padding:5px;
-        float:left;
-        position:relative;top:0%;     
+      .dotaheroes{
+        display: none;
+        position:absolute;
+        min-width:200%;
+        z-index:1;
       }
+
+      #verboden_in_casino {
+        
+      }
+      #boomers {
+        
+      }
+      #very_scary_mister {
+        
+      }
+      #siren {
+        
+      }
+      #ik_of_wij?{
+       
+      }
+      #sir_spells_a_lot{
+        
+      }
+      #oracle {
+      :hover #verboden_in_casino{diplay:block}
+      }
+      
          .buttons {
         background-color:rgb(0, 0, 255);
         border: none;
