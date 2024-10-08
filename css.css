@@ -38,7 +38,9 @@
         
       }
       #oracle {
-      :hover #verboden_in_casino{diplay:block}
+      background-color:rgb(0, 0, 0);
+      border:none;
+      #oracle:hover #verboden_in_casino{diplay:block}
       }
       
          .buttons {
