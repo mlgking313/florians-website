@@ -23,32 +23,32 @@
         z-index:1;
       }
 
-      #verboden_in_casino {
+      .verboden_in_casino {
          
       }
-      #boomers {
+      .boomers {
         
       }
-      #very_scary_mister {
+      .very_scary_mister {
         
       }
-      #siren {
+      .siren {
         
       }
-      #ik_of_wij?{
+      .ik_of_wij?{
        
       }
-      #sir_spells_a_lot{
+      .sir_spells_a_lot{
         
       }
-      #oracle {
+      .oracle {
       background-color:rgb(255, 0, 0);
       border:none;
       color:rgb(255, 255, 255);   
       padding: 1px 1px;
       cursor:pointer;
       }
-      .help:hover  #verboden_in_casino {display: block;}
+      .help:hover  .verboden_in_casino {display: block;}
          .buttons {
         background-color:rgb(0, 0, 255);
         border: none;
