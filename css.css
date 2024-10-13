@@ -14,7 +14,7 @@
       }
 
       .dotaheroes{
-        position:absolute;
+        position:relative;
         width:16%;  
         left-margin:0px;
         top-margin:40px;
