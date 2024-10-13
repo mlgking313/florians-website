@@ -8,12 +8,12 @@
       p {
           color:rgb(255, 255, 255);
         }
-      #links {
+            #links {
         text-decoration:underline;
         color:rgb(255, 255, 255);
       }
 
-      .dotaheroes{
+        .dotaheroes {
         width:16%;  
         top:40px;
         display:inline-table;
