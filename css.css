@@ -17,7 +17,7 @@
         position:absolute;
         width:16%;  
         top:40px;
-            
+        float:left;
       }
 
          .buttons {
