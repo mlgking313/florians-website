@@ -12,43 +12,14 @@
         text-decoration:underline;
         color:rgb(255, 255, 255);
       }
-      .help {
-  position: relative;
-  display: inline-block;
-}
+
       .dotaheroes{
-        display: none;
         position:absolute;
-        min-width:200%;
-        z-index:1;
+        width:16%;  
+        left-margin:0px;
+            
       }
 
-      .nerif {
-         
-      }
-      .boomers {
-        
-      }
-      .very_scary_mister {
-        
-      }
-      .siren {
-        
-      }
-      .ik_of_wij?{
-       
-      }
-      .sir_spells_a_lot{
-        
-      }
-      .oracle {
-      background-color:rgb(255, 0, 0);
-      border:none;
-      color:rgb(255, 255, 255);   
-      padding: 1px 1px;
-      cursor:pointer;
-      }
-      .help:hover  .verboden_in_casino {display: block;}
          .buttons {
         background-color:rgb(0, 0, 255);
         border: none;
