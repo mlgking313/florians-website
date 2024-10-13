@@ -16,7 +16,7 @@
       .dotaheroes{
         width:16%;  
         top:40px;
-        display:table;
+        display:inline-table;
       }
 
          .buttons {
