@@ -16,7 +16,8 @@
        table {
             color:rgb(255, 255, 255);
             background-color:rgb(54, 69, 79);
-            width:295px;
+            width:400px;
+            height:215px;
        }
       tr:nth-child(even) {
             background-color:black;     
