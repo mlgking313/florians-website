@@ -14,7 +14,22 @@
             border-style:hidden;
       }
 
-      #topgames {
+      #mono {
+          font-family: 'Courier New', monospace;
+      }
+      #Times {
+            font-family: 'Times New Roman', serif;
+      }
+      #Verdana {
+              font-family: 'Verdana', sans-serif; 
+      }
+      #Arial {
+            font-family:'Arial', sans-serif;
+      }
+      #courier {
+            font-family: 'Courier New', monospace;
+      }
+      .topgames {
             color:rgb(255, 255, 255);
             background-color:rgb(54, 69, 79);
             width:295px;
