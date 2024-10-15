@@ -11,8 +11,12 @@
           color:rgb(255, 255, 255);
         }
       #topgames {
-      color:rgb(255, 255, 255);
-      background-color:rgb(54, 69, 79);
+            color:rgb(255, 255, 255);
+            background-color:rgb(54, 69, 79);
+            width:20%;
+      }
+      tr:nth-child(even) {
+            background-color:black;
       }
             #links {
         text-decoration:underline;
