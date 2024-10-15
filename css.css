@@ -13,35 +13,14 @@
       th, td {
             border-style:hidden;
       }
-
-      #mono {
-          font-family: 'Courier New', monospace;
-      }
-      #Times {
-            font-family: 'Times New Roman', serif;
-      }
-      #Verdana {
-              font-family: 'Verdana', sans-serif; 
-      }
-      #Arial {
-            font-family:'Arial', sans-serif;
-      }
-      #courier {
-            font-family: 'Courier New', monospace;
-      }
-      table {
+       table {
             color:rgb(255, 255, 255);
             background-color:rgb(54, 69, 79);
             width:295px;
-      }
+       }
       tr:nth-child(even) {
-            background-color:black;
+            background-color:black;     
       }
-            #links {
-        text-decoration:underline;
-        color:rgb(255, 255, 255);
-      }
-
         .DotA {
         width:16%;  
         }
@@ -59,3 +38,24 @@
         cursor: not-allowed;
          }
       
+      #mono {
+          font-family: 'Courier New', monospace;
+      }
+      #Times {
+            font-family: 'Times New Roman', serif;
+      }
+      #Verdana {
+              font-family: 'Verdana', sans-serif; 
+      }
+      #Arial {
+            font-family:'Arial', sans-serif;
+      }
+      #courier {
+            font-family: 'Courier New', monospace;
+      }
+            #links {
+        text-decoration:underline;
+        color:rgb(255, 255, 255);
+      }
+
+
