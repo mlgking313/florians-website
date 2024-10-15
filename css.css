@@ -11,7 +11,7 @@
           color:rgb(255, 255, 255);
         }
       table, th, td, tr{
-            border:none;
+            border-style:hidden;
       }
 
       #topgames {
