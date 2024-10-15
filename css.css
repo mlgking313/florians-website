@@ -13,7 +13,8 @@
       #topgames {
             color:rgb(255, 255, 255);
             background-color:rgb(54, 69, 79);
-            width:20%;
+            width:295px;
+            border="0"
       }
       tr:nth-child(even) {
             background-color:black;
