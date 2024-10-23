@@ -20,6 +20,7 @@
        }
       td:nth-child(even) {
             background-color:rgb(27, 35, 40);
+      }
       tr:nth-child(even) {
             background-color:black;     
       }
