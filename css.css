@@ -1,4 +1,4 @@
-
+/*from low prior to high prior*/
       body {
         background-color:rgb(0, 0, 0);
       }
@@ -37,7 +37,10 @@
         margin: 4px 2px;
         cursor: not-allowed;
          }
-      
+      #lucky, #evil, #tester { /*hide objects here*/
+            display:hidden;
+      #gamble:hover + #lucky {
+            display:block;
       #mono {
           font-family: 'Courier New', monospace;
       }
