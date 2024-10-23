@@ -38,9 +38,10 @@
         cursor: not-allowed;
          }
       #lucky, #evil, #tester { /*hide objects here*/
-            display:hidden;
+            display:none;
       #gamble:hover + #lucky {
             display:block;
+      #lame:hover + #lame
       #mono {
           font-family: 'Courier New', monospace;
       }
