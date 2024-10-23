@@ -40,21 +40,6 @@
         margin: 4px 2px;
         cursor: not-allowed;
          }
-      #lucky, #evil, #tester { /*hide objects here*/
-            display:none;
-      }
-      #lucky:hover, #evil:hover, #tester:hover {
-            display:block;
-      }
-      #gamble:hover + #lucky {
-            display:block;
-      }
-      #lame:hover + #evil {
-            display:block;
-      }
-      #test:hover +#tester {
-            display:block
-      }
       #mono {
           font-family: 'Courier New', monospace;
       }
