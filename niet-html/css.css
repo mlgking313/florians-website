@@ -3,11 +3,8 @@
         background-color:rgb(0, 0, 0);
       }
 
-      h1 {
-            color:rgb(255, 255, 255);
-      }
 
-      p {
+      h1, p, ul, ol, li {
           color:rgb(255, 255, 255);
         }
       th, td {
