@@ -38,9 +38,11 @@
          }
       .spoiler {
             color:black;
+            background_color:rgb(40,40,40);
       }
       .spoiler:hover {
             color:white;
+            background_color:black;
       }
 /*id*/
       #mono {
