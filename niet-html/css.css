@@ -36,6 +36,12 @@
         margin: 4px 2px;
         cursor: not-allowed;
          }
+      .spoiler {
+            color:black;
+      }
+      .spoiler:hover {
+            color:white;
+      }
 /*id*/
       #mono {
           font-family: 'Courier New', monospace;
