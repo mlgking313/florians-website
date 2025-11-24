@@ -20,10 +20,11 @@
   padding: 4px;
   height: 30px;
   width: 200px;
-  background-color: #454545;
+  background-color: #353535;
   border: none;
   box-shadow: 1px 1px 2px #bbbbbb;
   cursor: pointer;
+  color:rgb(255, 255, 255);
 }
 
       tr:nth-child(even) {
