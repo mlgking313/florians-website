@@ -6,6 +6,7 @@
 
       h1, p, ol, ul, li {
           color:rgb(255, 255, 255);
+            cursor:default;
         }
       th, td {
             border-style:hidden;
@@ -15,6 +16,14 @@
             background-color:rgb(54, 69, 79);
             width:600px;
        }
+      details > summary {
+  padding: 4px;
+  width: 200px;
+  background-color: #454545;
+  border: none;
+  box-shadow: 1px 1px 2px #bbbbbb;
+  cursor: pointer;
+}
 
       tr:nth-child(even) {
             background-color:black;     
