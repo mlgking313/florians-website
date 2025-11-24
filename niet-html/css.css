@@ -16,7 +16,7 @@
             background-color:rgb(54, 69, 79);
             width:600px;
        }
-      details > summary,a {
+      details > summary {
   padding: 4px;
   height: 20px;
   width: 110px;
