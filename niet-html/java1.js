@@ -1,7 +1,7 @@
 
 const ok = Math.floor(Math.random() *100);
 if (ok < 16) {
-document.getElementById("p1").href = "about.html";
+document.getElementById("p1").href = "honr.html";
 } else if (ok > 15&& ok < 33) {
 document.getElementById("p1").href="stats.html";
 } else if (ok >32 && ok < 50) {
